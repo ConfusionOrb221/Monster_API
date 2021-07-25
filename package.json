@@ -1,0 +1,18 @@
+{
+  "name": "pathfinder-api",
+  "version": "1.0.0",
+  "description": "API to get pathfinder2e monsters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Buckingham",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.7",
+    "pg": "^8.6.0"
+  }
+}
